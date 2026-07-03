@@ -1,0 +1,11 @@
+Part 1 : Quiz :
+Answer the following questions
+
+What is a class?  A class is essentially a map that you use in Python to group data and objects together.  
+What is an instance?  It is an object created from a specific class
+What is encapsulation?  It is the process of bundling data and behaviors together in a class.
+What is abstraction?  This is the process of restricting access to methods and variables to prevent data from modification.  
+What is inheritance?  The concept that allows a new class to adopt all attributes and methods from a pre-existing class.  
+What is multiple inheritance?  The process of inheriting attributes from two different classes
+What is polymorphism?  Different or related classes that use the same names for their functions.  It allows the use of a standard interface for multiple data types.  
+What is method resolution order or MRO?  The sequence that Python uses to look up methods and attributes in a class hierarchy. It dictates which parent class's method will execute when a name collision occurs across an inheritance chain, especially in multiple inheritance scenarios
