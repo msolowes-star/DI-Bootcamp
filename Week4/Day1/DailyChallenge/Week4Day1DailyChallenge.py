@@ -1,3 +1,34 @@
+# Exercise 1
+
+"""
+What is a class?
+A class is essentially a blueprint that you use in Python to group data and methods together.
+
+What is an instance?
+An object created from a class.
+
+What is encapsulation?
+The process of bundling data and behaviors together in a class.
+
+What is abstraction?
+The process of hiding implementation details and exposing only the necessary functionality.
+
+What is inheritance?
+The concept that allows a new class to inherit attributes and methods from an existing class.
+
+What is multiple inheritance?
+The process of inheriting from two or more parent classes.
+
+What is polymorphism?
+Different classes can use methods with the same name while providing different implementations.
+
+What is Method Resolution Order (MRO)?
+The order Python follows to search for methods and attributes in a class hierarchy, especially when multiple inheritance is involved.
+"""
+
+
+
+# Exercise 2
 import random
 
 
